@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body, #container {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-bottom: 0.75em;
+}
+
+#setlist {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#setlist th {
+    font-size: 0.9em;    
+}
+
+#setlist, #setlist td, #setlist th {
+    border: 1px solid #eee;
+    
+}
+
+#setlist th {
+    text-transform: uppercase;
+}
+
+#setlist td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+
+#setlist tbody .no {
+    font-size: 0.7em;
+    width: 1px;
+}
+
+#setlist tbody .artist {
+    text-transform: capitalize;
+    font-size: 1.1em;
+    max-width: 40mm;
+}
+
+#setlist tbody .title {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+#setlist tbody .obs {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#setlist tbody .extra {
+    font-size: 0.75em;
+}

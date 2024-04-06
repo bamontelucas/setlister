@@ -1,0 +1,194 @@
+{
+    "date": "29/10/2022",
+    "local": "James Joyce",
+    "setlist": [
+        {
+            "title": "sweet dreams",
+            "artist": "Marilyn Manson"
+        },
+        {
+            "title": "pet sematary",
+            "artist": "Ramones"
+        },
+        {
+            "title": "learn to fly",
+            "artist": "foo fighters",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "losing my religion",
+            "artist": "r.e.m."
+        },
+        {
+            "title": "eu quero sempre mais",
+            "artist": "Ira!"
+        },
+        {
+            "title": "mais",
+            "artist": "capital inicial"
+        },
+        {
+            "title": "a mais pedida",
+            "artist": "raimundos"
+        },
+        {
+            "title": "epitáfio",
+            "artist": "titãs"
+        },
+        {
+            "title": "dias atrás",
+            "artist": "CPM 22"
+        },
+        {
+            "title": "mulher de fases",
+            "artist": "raimundos"
+        },
+        {
+            "title": "que país é esse",
+            "artist": "Legião Urbana"
+        },
+        {
+            "title": "natasha",
+            "artist": "Capital inicial"
+        },
+        {
+            "title": "it's my life",
+            "artist": "bon jovi",
+            "obs": "½ TOM - VS",
+            "color": "red"
+        },
+        {
+            "title": "californication",
+            "artist": "red hot chili peppers"
+        },
+        {
+            "title": "boys don't cry",
+            "artist": "the cure"
+        },
+        {
+            "title": "selling the drama",
+            "artist": "live",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "knockin' on heaven's door",
+            "artist": "Guns n' Roses",
+            "obs": "½ TOM",
+            "color": "red"
+        },        
+        {
+            "title": "don't cry",
+            "artist": "Guns n' Roses",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "my sacrifice",
+            "artist": "Creed",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "title": "by the way",
+            "artist": "red hot chili peppers",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "title": "like a stone",
+            "artist": "audioslave",
+            "obs": "DROP C#",
+            "color": "#a000aa"
+        },        
+        {
+            "title": "vertigo",
+            "artist": "U2",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "dancing with myself",
+            "artist": "Billy Idol"
+        },
+        {
+            "title": "here comes your man",
+            "artist": "pixies"
+        },
+        {
+            "title": "you got it",
+            "artist": "Roy Orbison"
+        },
+        {
+            "title": "what a wonderful world",
+            "artist": "Ramones"
+        },
+        {
+            "title": "back on the chain gang",
+            "artist": "Morrison"
+        },
+        {
+            "title": "when i come around",
+            "artist": "Green Day",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "title": "ain't talking about love",
+            "artist": "van halen",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "anna júlia",
+            "artist": "Los Hermanos",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "title": "quatro vezes você",
+            "artist": "Capital inicial"
+        },
+        {
+            "title": "toda forma de amor",
+            "artist": "Lulu Santos"
+        },
+        {
+            "title": "será",
+            "artist": "Legião Urbana"
+        },
+        {
+            "title": "evidências",
+            "artist": "Chitãozinho & Xororó",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "title": "fogo e paixão",
+            "artist": "Wando/Sgto Brega"
+        },
+        {
+            "title": "psycho killer",
+            "artist": "Talking Heads"
+        },
+        {
+            "title": "pretty woman",
+            "artist": "Roy Orbison"
+        },
+        {
+            "title": "robocop gay",
+            "artist": "Mamonas Assassinas"
+        },
+        {
+            "title": "the kids aren't alright",
+            "artist": "the offspring",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "black",
+            "artist": "pearl jam"
+        }      
+    ]
+}

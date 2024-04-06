@@ -1,0 +1,41 @@
+:root {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, #container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+header button {
+    border-radius: 0.25em;
+    cursor: pointer;
+    margin: 0.25em;
+}
+
+#submit {
+    background-color: red;
+    color: #ddd;
+    border: 0.1em solid darkred;
+}
+
+#import {
+    background-color: transparent;
+    color: royalblue;
+    border: 0.1em solid royalblue;
+}
+
+#container table {
+    user-select: none;
+}
+
+#setlist {
+    counter-reset: setlist;
+}
+
+#setlist tbody tr td:first-child::before {
+    counter-increment: setlist;
+    content: counter(setlist) " ";
+    position: relative;
+    left: -0.5em;
+}

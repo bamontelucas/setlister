@@ -1,0 +1,180 @@
+{
+    "date": "27/08/2022",
+    "local": "James Joyce",
+    "setlist": [
+        {
+            "artist": "Legiao Urbana",
+            "title": "Que Pais É Este"
+        },
+        {
+            "artist": "Ramones",
+            "title": "Pet Sematary"
+        },
+        {
+            "artist": "Pearl Jam",
+            "title": "Last Kiss"
+        },
+        {
+            "artist": "Ira!",
+            "title": "Eu Quero Sempre Mais"
+        },
+        {
+            "artist": "Stone Temple Pilots",
+            "title": "Plush"
+        },
+        {
+            "title": "ain't talking 'bout love",
+            "artist": "van halen",
+            "obs": "½ TOM",
+            "color": "red"
+        },        
+        {
+            "artist": "Capital Inicial",
+            "title": "Natasha"
+        },
+        {
+            "artist": "Os Paralamas Do Sucesso",
+            "title": "Aonde Quer Que Eu Vá"
+        },
+        {
+            "title": "lugar ao sol",
+            "artist": "Charlie Brown Jr.",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },        
+        {
+            "artist": "Capital Inicial",
+            "title": "Quatro Vezes Você"
+        },
+        {
+            "artist": "Depeche Mode",
+            "title": "Enjoy the Silence"
+        },
+        {
+            "title": "epitáfio",
+            "artist": "titãs"
+        },
+        {
+            "artist": "Ramones",
+            "title": "What a Wonderful World"
+        },
+        {
+            "artist": "Raimundos",
+            "title": "A mais pedida"
+        },
+        {
+            "title": "sweet dreams",
+            "artist": "Marilyn Manson"
+        },
+        {
+            "title": "Unforgiven II",
+            "artist": "Metallica",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "simple man",
+            "artist": "Lynyrd Skynyrd",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "artist": "The Calling",
+            "title": "Wherever You Will Go"
+        },
+        {
+            "artist": "Legiao Urbana",
+            "title": "Será"
+        },
+        {
+            "artist": "Morrisey",
+            "title": "Back on the Chain Gang"
+        },
+        {
+            "title": "come as you are",
+            "artist": "Nirvana",
+            "obs": "1 TOM",
+            "color": "#c25400"
+        },
+        {
+            "title": "my sacrifice",
+            "artist": "Creed",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "artist": "CPM 22",
+            "title": "Não Sei Viver Sem Ter Você"
+        },
+        {
+            "artist": "Lulu Santos",
+            "title": "Toda Forma de Amor"
+        },
+        {
+            "artist": "Bon Jovi",
+            "title": "It's My Life",
+            "obs": "½ TOM - VS",
+            "color": "darkred"
+        },
+        {
+            "artist": "Guns N' Roses",
+            "title": "Don't Cry",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "title": "meu erro",
+            "artist": "Paralamas do Sucesso",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "artist": "Billy Idol",
+            "title": "Dancing With Myself"
+        },
+        {
+            "title": "dias atrás",
+            "artist": "CPM 22"
+        },
+        {
+            "title": "psycho killer",
+            "artist": "Talking Heads"
+        },
+        {
+            "title": "pretty woman",
+            "artist": "Roy Orbison"
+        },
+        {
+            "artist": "Sargento Brega",
+            "title": "Fogo e Paixão"
+        },
+        {
+            "artist": "Los Hermanos",
+            "title": "Anna Júlia",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "artist": "Raimundos",
+            "title": "Mulher de fases"
+        },
+        {
+            "artist": "Chitãozinho & Xororó",
+            "title": "Evidencias",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "artist": "Legiao Urbana",
+            "title": "Tempo Perdido"
+        },
+        {
+            "title": "have you ever",
+            "artist": "creedence"
+        },
+        {
+            "artist": "Capital Inicial",
+            "title": "Primeiros Erros"
+        }    
+    ]
+}

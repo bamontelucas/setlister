@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body, #container {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-bottom: 0.75em;
+}
+
+#header {
+    width: 99%;
+    font-size: 0.9em; 
+    font-weight: bold;   
+    text-transform: uppercase;
+}
+
+#header > * {
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 99%;
+    height: 515mm;
+    /* height: 530mm; */
+    /* height: 250mm; */
+}
+
+#header, #container > .row, #container > .extra {
+    border: 1px solid #eee;
+    display: grid;
+    /* grid-template-columns: 6mm 25% auto 35mm; */
+    /* grid-template-columns: 6mm 33% auto; */
+    grid-template-columns: 6mm 25% auto 40mm;
+    break-inside: avoid;
+}
+#container > .row > *, #container > .extra  > * {
+    break-inside: avoid;
+}
+
+#container > .break {
+    /*page-break-before: always;*/
+    /*height: 1em;*/
+    displaY: none;
+}
+
+#container > .extra-separator {
+    text-align: center;
+    font-size: 0.7em;
+    align-self: end;
+}
+
+#container > .extra {
+    /* font-size: 0.7em; */
+    font-size: 0.65em;
+}
+
+#container > .row > *, #container > .extra > * {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    break-inside: avoid-page;
+    align-self: center;
+}
+
+#container .no {
+    font-size: 0.7em;
+}
+
+#container .artist {
+    text-transform: capitalize;
+    font-size: 1.1em;
+}
+
+#container .title {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+#container .obs {
+    /* font-size: 1.2em; */
+    font-size: 0.9em;
+    font-weight: bold;
+    white-space: initial;
+}
+
+.separator {
+    font-size: 0.7em;
+    text-align: center;
+    margin: auto;
+    color: #555;
+}

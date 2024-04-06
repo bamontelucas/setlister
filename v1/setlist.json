@@ -1,0 +1,168 @@
+{
+    "date": "24/08/2022",
+    "local": "Villagio Mall",
+    "setlist": [
+        {
+            "artist": "Marilyn Manson",
+            "title": "Sweet Dreams"
+        },
+        {
+            "artist": "Nirvana",
+            "title": "The Man Who Sold The World",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "artist": "Charlie Brown Jr.",
+            "title": "Lugar Ao Sol",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "artist": "Pearl Jam",
+            "title": "Soldier of Love"
+        },
+        {
+            "artist": "Os Paralamas Do Sucesso",
+            "title": "Aonde Quer Que Eu Vá"
+        },
+        {
+            "artist": "Ramones",
+            "title": "Pet Sematary"
+        },
+        {
+            "artist": "Capital Inicial",
+            "title": "Natasha"
+        },
+        {
+            "artist": "Charlie Brown Jr.",
+            "title": "Só Por Uma Noite"
+        },
+        {
+            "artist": "Creed",
+            "title": "Don't Stop Dancing"
+        },
+        {
+            "artist": "Ira!",
+            "title": "Eu Quero Sempre Mais"
+        },
+        {
+            "artist": "Legiao Urbana",
+            "title": "Será"
+        },
+        {
+            "artist": "Morrisey",
+            "title": "Back on the Chain Gang"
+        },
+        {
+            "artist": "The Cure",
+            "title": "Boys Don't Cry"
+        },
+        {
+            "artist": "Ramones",
+            "title": "Poison Heart"
+        },
+        {
+            "artist": "Billy Idol",
+            "title": "Dancing With Myself"
+        },
+        {
+            "artist": "CPM 22",
+            "title": "Não Sei Viver Sem Ter Você"
+        },
+        {
+            "artist": "Depeche Mode",
+            "title": "Enjoy the Silence"
+        },
+        {
+            "artist": "Guns N' Roses",
+            "title": "Don't Cry",
+            "obs": "½ TOM",
+            "color": "red"
+        },
+        {
+            "artist": "Stone Temple Pilots",
+            "title": "Plush"
+        },
+        {
+            "artist": "The Calling",
+            "title": "Wherever You Will Go"
+        },
+        {
+            "artist": "Within Temptation",
+            "title": "Titanium"
+        },
+        {
+            "artist": "Raimundos",
+            "title": "Mulher de fases"
+        },
+        {
+            "artist": "Sargento Brega",
+            "title": "Fogo e Paixão"
+        },
+        {
+            "artist": "Chitãozinho & Xororó",
+            "title": "Evidencias",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "artist": "Ramones",
+            "title": "What a Wonderful World"
+        },
+        {
+            "artist": "Legiao Urbana",
+            "title": "Que Pais É Este"
+        },
+        {
+            "artist": "Capital Inicial",
+            "title": "Primeiros Erros"
+        },
+        {
+            "artist": "Los Hermanos",
+            "title": "Anna Júlia",
+            "obs": "½ TOM (Lucas)",
+            "color": "blue"
+        },
+        {
+            "artist": "Lulu Santos",
+            "title": "Toda Forma de Amor"
+        },
+        {
+            "artist": "Legiao Urbana",
+            "title": "Tempo Perdido"
+        }        
+    ],
+    "extra": [
+        {
+            "artist": "Capital Inicial",
+            "title": "Quatro Vezes Você"
+        },
+        {
+            "artist": "R.E.M.",
+            "title": "Losing My Religion"
+        },
+        {
+            "artist": "Raimundos",
+            "title": "A mais pedida"
+        },
+        {
+            "artist": "Raimundos",
+            "title": "I Saw You Saying"
+        },
+        {
+            "artist": "Ramones",
+            "title": "Pet Sematary"
+        },
+        {
+            "artist": "Red Hot Chili Peppers",
+            "title": "By the Way",
+            "obs": "DROP D",
+            "color": "#b50d7d"
+        },
+        {
+            "artist": "Red Hot Chili Peppers",
+            "title": "Otherside"
+        }
+    ]
+}
